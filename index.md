@@ -59,3 +59,13 @@ but the workflow that they encourage.
 > (e.g., how to change their working directory)
 > before beginning this lesson.
 {: .prereq}
+
+## [Workshop Slide-deck](extras/workshop_slides.pdf)
+
+### [Mercurial Web Site](https://www.mercurial-scm.org/)
+
+### [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) (also known as "The Red-bean Book")
+
+### [Mercurial Command Reminders](/commands/)
+
+
