@@ -44,7 +44,7 @@ to the project later on
 
 This lesson shows how to use
 a popular open source version control system called
-[Mercurial](http://mercurial.selenic.com/)
+[Mercurial](https://www.mercurial-scm.org/)
 (also known as `hg`).
 It is widely used,
 both because it's easy to set up
@@ -66,6 +66,6 @@ but the workflow that they encourage.
 
 ### [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) (also known as "The Red-bean Book")
 
-### [Mercurial Command Reminders](/commands/)
+### [Mercurial Command Reminders](commands/)
 
 
