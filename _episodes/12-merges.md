@@ -1,7 +1,7 @@
 ---
 title: Merging Changes from Different Clones
 teaching: 10
-exercises: 5
+exercises: 0
 questions:
 - "How do I combine changes made in different repositories?"
 objectives:

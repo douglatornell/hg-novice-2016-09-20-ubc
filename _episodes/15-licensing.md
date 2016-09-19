@@ -1,7 +1,7 @@
 ---
 title: Licensing
-teaching: 10
-exercises: 5
+teaching: 5
+exercises: 0
 questions:
 - "What licensing information should I include with my work?"
 objectives:

@@ -1,7 +1,7 @@
 ---
 title: Hosting
-teaching: 10
-exercises: 5
+teaching: 5
+exercises: 0
 questions:
 - "Where should I host my version control repositories?"
 objectives:

@@ -1,6 +1,6 @@
 ---
 title: Remote Repositories
-teaching: 10
+teaching: 30
 exercises: 5
 questions:
 - "How can I use Mercurial to store information on other machines?"

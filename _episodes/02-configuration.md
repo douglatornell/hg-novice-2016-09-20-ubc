@@ -1,7 +1,7 @@
 ---
 title: Configuring Mercurial
 teaching: 10
-exercises: 5
+exercises: 0
 questions:
 - "How do I get set up to use Mercurial?"
 objectives:
