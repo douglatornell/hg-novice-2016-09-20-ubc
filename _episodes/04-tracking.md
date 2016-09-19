@@ -1,7 +1,7 @@
 ---
 title: Tracking Changes to Files
 teaching: 10
-exercises: 5
+exercises: 0
 questions:
 - "How do I record changes in Mercurial?"
 - "How do I check the status of my version control repository?"

@@ -1,7 +1,7 @@
 ---
 title: Making Changes
-teaching: 10
-exercises: 5
+teaching: 15
+exercises: 10
 questions:
 - "How can I change files in a repository?"
 objectives:

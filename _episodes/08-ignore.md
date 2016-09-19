@@ -1,7 +1,7 @@
 ---
 title: Ignoring Things
-teaching: 10
-exercises: 5
+teaching: 5
+exercises: 0
 questions:
 - "How can I tell Mercurial to ignore files I don't want to track?"
 objectives:

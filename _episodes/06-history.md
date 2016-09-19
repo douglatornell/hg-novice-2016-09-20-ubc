@@ -1,7 +1,7 @@
 ---
 title: Exploring History
 teaching: 10
-exercises: 5
+exercises: 0
 questions:
 - "How do I review my changes?"
 - "How can I recover old versions of files?"

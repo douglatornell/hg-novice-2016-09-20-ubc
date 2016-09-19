@@ -1,7 +1,7 @@
 ---
 title: Creating a Repository
-teaching: 10
-exercises: 5
+teaching: 5
+exercises: 0
 questions:
 - "Where does Mercurial store information?"
 objectives:

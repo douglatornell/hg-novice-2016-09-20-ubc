@@ -1,7 +1,7 @@
 ---
 title: Open Science
-teaching: 10
-exercises: 5
+teaching:5
+exercises: 0
 questions:
 - "How can version control help me make my work more open?"
 objectives:

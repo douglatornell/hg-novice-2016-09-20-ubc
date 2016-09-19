@@ -1,7 +1,7 @@
 ---
 title: Recovering Old Versions
 teaching: 10
-exercises: 5
+exercises: 0
 questions:
 - "How can I recover old versions of files?"
 objectives:
